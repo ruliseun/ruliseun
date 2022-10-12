@@ -107,7 +107,9 @@ I am delighted to work with you as we try to solve some of the world's most chal
 </p>
   <div align="center">
     
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruliseun&layout=compact)](https://github.com/ruliseun/github-readme-stats)
+    
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruliseun&layout=compact&hide=shell&langs_count=8&show_icons=true)](https://github.com/ruliseun/github-readme-stats)
+    
    
 </div>
 
