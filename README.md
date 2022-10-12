@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, Welcome!
+
+### I am Oluwaseun Akinruli
+
+### I am delighted to work with you as we try to solve some of the worlds most challenging problem one line of code a time...
+
+https://shields.io/badge/style-flat-green?logo=appveyor&style=flat
+
+
 
 <!--
 **ruliseun/ruliseun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
