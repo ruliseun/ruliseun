@@ -4,7 +4,7 @@
 
 I am Oluwaseun Akinruli
 
-I am delighted to work with you as we try to solve some of the worlds most challenging problem one line of code a time...
+I am delighted to work with you as we try to solve some of the world's most challenging problems, one line of code a time...
 
 <hr>
 
@@ -47,6 +47,7 @@ I am delighted to work with you as we try to solve some of the worlds most chall
 
 
 ### &nbsp; DevOps
+
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
@@ -67,6 +68,7 @@ I am delighted to work with you as we try to solve some of the worlds most chall
 
 
 ### &nbsp; Design
+
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
@@ -74,13 +76,11 @@ I am delighted to work with you as we try to solve some of the worlds most chall
 
 
 ### &nbsp; Others
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-
-
-</br>
 
 
 ### 📚 Learning
@@ -91,6 +91,8 @@ I am delighted to work with you as we try to solve some of the worlds most chall
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)&nbsp;
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)&nbsp;
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)&nbsp;
+
+</br>
 
 
 ### 📈 Stats
