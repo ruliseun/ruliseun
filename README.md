@@ -10,7 +10,8 @@ I am delighted to work with you as we try to solve some of the world's most chal
 
 #### Visit my portfolio website and LinkedIn profile for more about me.
 
-<a href="https://dev-ruliseun.netlify.app/">My portfolio</a>&nbsp;<a href="https://www.linkedin.com/in/oluwaseun-akinruli-4a2465aa/">LinkedIn</a> 
+<a href="https://dev-ruliseun.netlify.app/">Portfolio</a>&nbsp; <br />
+<a href="https://www.linkedin.com/in/oluwaseun-akinruli-4a2465aa/">LinkedIn</a> 
 
 <br />
 
