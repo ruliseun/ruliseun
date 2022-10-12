@@ -6,6 +6,8 @@ I am Oluwaseun Akinruli
 
 I am delighted to work with you as we try to solve some of the world's most challenging problems, one line of code a time...
 
+![ruliseun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruliseun&show_icons=true)
+
 <hr>
 
 #### Visit my portfolio website and LinkedIn profile for more about me.
