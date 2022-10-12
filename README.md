@@ -101,11 +101,11 @@ I am delighted to work with you as we try to solve some of the world's most chal
 ### 📈 Stats
 <div>
   
-  <p align="center">
+  <p align="left">
   <b><em>Overall GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruliseun" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruliseun" alt="GitHub Stats" />
 </p>
-  <div align="center">
+  <div align="right">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruliseun&hide=shell&langs_count=8&show_icons=true)](https://github.com/ruliseun/github-readme-stats)
 
