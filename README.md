@@ -94,7 +94,7 @@ I am delighted to work with you as we try to solve some of the world's most chal
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)&nbsp;
 
 </br>
-
+<hr>
 
 ### 📈 Stats
 <div>
