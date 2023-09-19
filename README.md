@@ -10,7 +10,7 @@ I am delighted to work with you as we try to solve some of the world's most chal
 
 <hr>
 
-#### 👇🏽 Get Linked with me 😎.
+#### 👇🏽 Get Linked-in with me 😎.
 
  <!-- <a href="https://dev-ruliseun.netlify.app/">Portfolio</a>&nbsp; <br /> -->
 <a href="https://www.linkedin.com/in/oluwaseun-akinruli-4a2465aa/">LinkedIn</a> 
