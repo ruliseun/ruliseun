@@ -6,18 +6,18 @@ I am Oluwaseun Akinruli
 
 I am delighted to work with you as we try to solve some of the world's most challenging problems, one line of code a time...
 
-![ruliseun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruliseun&show_icons=true&theme=dark)
+<!-- ![ruliseun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruliseun&show_icons=true&theme=dark) -->
 
 <hr>
 
-#### Visit my portfolio website and LinkedIn profile for more about me.
+#### 👇🏽 Get Linked with me 😎.
 
-<a href="https://dev-ruliseun.netlify.app/">Portfolio</a>&nbsp; <br />
+ <!-- <a href="https://dev-ruliseun.netlify.app/">Portfolio</a>&nbsp; <br /> -->
 <a href="https://www.linkedin.com/in/oluwaseun-akinruli-4a2465aa/">LinkedIn</a> 
 
 <br />
 
-### 🛠 &nbsp;Tech Stack
+<!-- ### 🛠 &nbsp;Tech Stack
 
 #### &nbsp; Frontend
 
@@ -112,3 +112,4 @@ I am delighted to work with you as we try to solve some of the world's most chal
 </div>
 
 </div>
+-->
